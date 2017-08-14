@@ -1,0 +1,60 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontFamily": "'Lucida Console', monospace",
+    "editor.fontSize": 12,
+    "editor.minimap.enabled": true,
+    "editor.minimap.maxColumn": 100,
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.showSlider": "always",
+    "files.associations": {
+        // extension name : html
+        // "*.php": "php,html",
+        // "*.php": "html"
+        // "*.less": "css,less"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    // "emmet.syntaxProfiles": {
+    //     // "php": "html"
+    //     "html": "php"
+    // },
+    // "beautify.language": {
+    //     "php": [
+    //         "html"
+    //     ]
+    // },
+    "files.autoSave": "off",
+    "window.menuBarVisibility": "toggle",
+    "workbench.activityBar.visible": true,
+    // "workbench.welcome.enabled": false,
+    "colorHelper.disableGpu": 1,
+    // "vs-color-picker:autoLaunch": false,
+    // "vs-color-picker:autoLaunchDelay": 1000,
+    "window.zoomLevel": 0,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    // "team.showWelcomeMessage": false,
+
+    "editor.formatOnSave": true,
+    "beautify.language": {
+        "js": {
+            "type": [
+                "javascript",
+                "json"
+            ],
+            "filename": [
+                ".jshintrc",
+                ".jsbeautify"
+            ]
+        },
+        "css": [
+            "css",
+            "scss",
+            "less"
+        ],
+        "html": [
+            "htm",
+            "html",
+            "php"
+        ]
+    }
+}
