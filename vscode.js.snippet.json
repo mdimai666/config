@@ -1,0 +1,26 @@
+{
+	"AnonimFunction": {
+		"prefix": "ff",
+		"body": [
+			"function(){",
+			"$0",
+			"}"
+		]
+	},
+	"jQuery.noConflict": {
+		"prefix": "qq",
+		"body": [
+			"(function ($) {",
+			"$0",
+			"}(jQuery));"
+		]
+	},
+	"Document ready jquery": {
+		"prefix": "dr",
+		"body": [
+			"$(function(){",
+			"$0",
+			"});"
+		]
+	}
+}
