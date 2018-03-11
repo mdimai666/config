@@ -56,5 +56,12 @@
             "html",
             "php"
         ]
+    },
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "git.autofetch": true,
+    "emmet.triggerExpansionOnTab": true,
+    "files.exclude": {
+        "node_modules/": true,
+        "bower_components/":true
     }
 }
